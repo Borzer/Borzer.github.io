@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Borzer.github.io</id>
     <title>猫什么猫</title>
-    <updated>2021-02-07T09:06:14.166Z</updated>
+    <updated>2021-02-07T09:08:22.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Borzer.github.io"/>
     <link rel="self" href="https://Borzer.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, 猫什么猫</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Borzer.github.io/post/hello-gridea/</id>
-        <link href="https://Borzer.github.io/post/hello-gridea/">
+        <id>https://Borzer.github.io/hello-gridea/</id>
+        <link href="https://Borzer.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
