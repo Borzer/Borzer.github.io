@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Borzer.github.io</id>
+    <id>https://www.wanders.cn</id>
     <title>猫什么猫</title>
-    <updated>2021-02-07T10:40:27.792Z</updated>
+    <updated>2021-02-07T10:45:50.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Borzer.github.io"/>
-    <link rel="self" href="https://Borzer.github.io/atom.xml"/>
+    <link rel="alternate" href="https://www.wanders.cn"/>
+    <link rel="self" href="https://www.wanders.cn/atom.xml"/>
     <subtitle>出其不意是我的个性</subtitle>
-    <logo>https://Borzer.github.io/images/avatar.png</logo>
-    <icon>https://Borzer.github.io/favicon.ico</icon>
+    <logo>https://www.wanders.cn/images/avatar.png</logo>
+    <icon>https://www.wanders.cn/favicon.ico</icon>
     <rights>All rights reserved 2021, 猫什么猫</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Borzer.github.io/hello-gridea/</id>
-        <link href="https://Borzer.github.io/hello-gridea/">
+        <id>https://www.wanders.cn/hello-gridea/</id>
+        <link href="https://www.wanders.cn/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
