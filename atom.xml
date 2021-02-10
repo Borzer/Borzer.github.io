@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wanders.cn</id>
     <title>猫什么猫</title>
-    <updated>2021-02-09T09:58:45.992Z</updated>
+    <updated>2021-02-10T06:50:46.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.wanders.cn"/>
     <link rel="self" href="https://www.wanders.cn/atom.xml"/>
@@ -10,6 +10,55 @@
     <logo>https://www.wanders.cn/images/avatar.png</logo>
     <icon>https://www.wanders.cn/favicon.ico</icon>
     <rights>All rights reserved 2021, 猫什么猫</rights>
+    <entry>
+        <title type="html"><![CDATA[小米T500C 开箱体验]]></title>
+        <id>https://www.wanders.cn/T500C/</id>
+        <link href="https://www.wanders.cn/T500C/">
+        </link>
+        <updated>2021-02-10T06:45:47.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="购买理由">购买理由</h2>
+<p>由于之前买的素士X3发现时不时用的会有自动断电的现象，偶发性启动不了，充电速度慢，掉电异常的问题。</p>
+<p>又这么的刚刚好在小米商城年夜饭口令领了20块红包，才有了想更换掉的念头。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="购买理由">购买理由</h2>
+<p>由于之前买的素士X3发现时不时用的会有自动断电的现象，偶发性启动不了，充电速度慢，掉电异常的问题。</p>
+<p>又这么的刚刚好在小米商城年夜饭口令领了20块红包，才有了想更换掉的念头。</p>
+<!-- more -->
+<p> </p>
+<p>刚开始想试试飞利浦的入门级6730，但是看了下外观，果断放弃了。</p>
+<p>T500C其实和T500是一模一样的，只是因为多了个便携盒和附赠了3个刷头，所以就成为了套装版。</p>
+<h2 id="外观展示">外观展示</h2>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2021/02/10/Tgq237XzPKymRnr.jpg" alt="baozhuang" loading="lazy"></figure>
+<p><em>T500C套装版</em></p>
+<p> </p>
+<figure data-type="image" tabindex="2"><img src="https://i.loli.net/2021/02/10/nKMeJzSu6v9iATL.jpg" alt="quanjiafu" loading="lazy"></figure>
+<p><em>全家福 这个便携盒我个人觉得还是有点大的，可以额外放下本体及2个刷头</em></p>
+<p> </p>
+<figure data-type="image" tabindex="3"><img src="https://i.loli.net/2021/02/10/MPkQICzr3hpsRaJ.jpg" alt="benti" loading="lazy"></figure>
+<p><em>外观展示 指示灯分别为标准模式 轻柔模式 个性模式 电量指示灯</em></p>
+<h2 id="使用感受">使用感受</h2>
+<p>首先，肯定是能够接入米家APP的，之前的素士X3也能够接入，但是界面和自家的产品那就差的很多了。</p>
+<p> </p>
+<img src="https://i.loli.net/2021/02/10/r6pdHP75C2nkcue.jpg" alt="app-1" style="zoom: 33%;" />
+<p>简单的绑定之后，就能够进入主界面了，下拉同步数据的速度比素士X3快了很多，大概是蓝牙模块也更新了吧。</p>
+<p> </p>
+<img src="https://i.loli.net/2021/02/10/nJ72W6SoYIsBxPm.jpg" alt="app-2" style="zoom:33%;" />
+<p>点击历史详情，就能查看分数，过压次数等，反正我也就第一次同步的时候会看看...</p>
+<p> </p>
+<img src="https://i.loli.net/2021/02/10/hDN8MZpncYuJrWt.jpg" alt="app-3" style="zoom:33%;" />
+<p>个性模式是支持自己定制自己喜欢的模式以及其他的小功能的，也是绑定APP最主要的原因之一。</p>
+<p>开机防溅射我觉得是很有必要开启的，按照素士X3上的习惯，我还开启了刷牙完成后舌苔清洁10S的功能。</p>
+<p>震动的感觉比素士X3舒适，而且30S分区提示时会更加的明显。舌苔清洁模式的震动也比素士X3更加的合理。</p>
+<h2 id="总结">总结</h2>
+<p>颜值真的不错，主要是开关的设计是无缝设计。</p>
+<p>这样就能够避免开关键处会堆积污渍，也不会有进水的可能。</p>
+<p>这点设计是比素士X3做的好的地方。</p>
+<p>材质也比素士X3舒服，素士X3就是直接是光滑的塑料。</p>
+<p>T500C握手处是有防滑颗粒的，好评！</p>
+<p>最后还是吐槽下便携盒，做的稍微有点大了，要是再小点就完美啦！</p>
+<p>耗材目前是69三支刷头，这个价格已经很亲民了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《烟火》]]></title>
         <id>https://www.wanders.cn/firework/</id>
